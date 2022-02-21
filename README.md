@@ -1,5 +1,5 @@
 Rosane Ananias
-Data & Analytics Cientist
+Data & Analytics
 
 Trabalho em projetos envolvendo Ciência de Dados e Análise de Dados. Já vivenciei em diferentes áreas implantação de projetos, gestão estratégica e modelagem de negócios. Sou apaixonada pela ciência de dados, empreendedorismo, tecnologia e livros. Vejo a área de dados como uma grande ponte entre as áreas estratégicas de uma empresa e tecnologia. 
 Mais que ter dados, é importante saber o que fazer com eles para atingir o diferencial em qualquer nicho. Com decisões guiadas em dados saimos do achismo para a ação assertiva. 
